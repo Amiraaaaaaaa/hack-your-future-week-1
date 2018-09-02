@@ -1,0 +1,77 @@
+.first-section{
+    width:30%;
+    background:rgb(204, 0, 255);
+    height:500px;
+    color:white;
+    display :inline-block;
+    box-shadow: 0 0 5px 5px rgba(102, 89, 89, 0.6);
+    z-index: 5;
+  }
+  .second-section {
+    background :rgb(255, 255, 255);  
+    width : 70%;
+    display:inline-block;
+    height:500px;
+    padding :0;
+    margin :0;
+    float:right;
+   
+  }
+  
+  body {
+    margin :0;
+    padding:0;
+  }
+  div {
+    padding: 0;
+    margin: 0;
+    position: relative;
+  }
+  h1 {
+    margin:5px;
+    
+  }
+  img {
+    height:200px;
+    width:200px;
+    float:;
+    border-radius: 50%;
+    margin-left : 120px;
+    margin-top:30px;
+    border:5px solid white;
+    }
+  h1 {
+    font-family:"Comic Sans MS";
+    margin:100px 100px 30px 100px;
+    margin-top:5px;
+  }
+  .contact {
+    font-size :20px;
+    padding-right: 30px;
+    font-family:"Comic Sans MS";
+    margin-left:30px;
+    margin-top:10px
+  }
+  .my-info{
+      font-size:30px;
+      padding:20px;
+      font-family:"Comic Sans MS";
+      color:rgb(102, 0, 102);
+  }
+  hr { 
+    display: block;
+    margin-top: 3px;
+    margin-bottom:3px;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 3px;
+    box-shadow: inset 0 12px 12px -12px srgba(0, 0, 0, 0.5);
+}
+a:hover {
+    background-color: aquamarine;
+
+}
+a:visited {
+    color: bisque;
+}
